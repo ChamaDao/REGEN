@@ -51,15 +51,12 @@ To be Kenyan is to participate in a Chama, whether directly, indirectly, once or
 - However, in the case of Family-run Chamas, it is often seen that the head of the family or the family elders, have control over where the money is spent and how much the contributions per member should be.
 - Additionally, there are Chama systems, where the individual contributions can vary depending on the individual's means. In such circumstances, contribution rates, interest rates and payback periods vary as well.
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
-
 ## Nurturing Socio-Economic Relationships
 
 - It can be said that the Chama is its own organism, constantly adapting to include local culture and promote compassion. This has been possible as women around the world helped to pioneer this new invention.
 - Unlike traditional banks, interest rates and repayment periods, fines and collection of arrears are all done on an individual basis. For example, if one member fails to get back on time to pay back his or her Chama loan but has experienced a death in the family, there may be a social protection fund that helps the person with costs for funeral arrangements. There are also likely to be granted a grace period to get back on their feet.
 - Due to this, Chamas often have relatively low repayment default rates. Additionally, Chamas operate on trust-based systems, where the individuals already know and have a relationship with existing members. Whether colleagues at work, cousins or neighbours, there is often a shared mandate and vision for the savings. This convening of shared passions is the main success factor in these groups
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 ## Eco-feminist financing
 
@@ -68,19 +65,13 @@ To be Kenyan is to participate in a Chama, whether directly, indirectly, once or
 - This means although many are land rich, but they have no education, means or resources on valuing their property and other holdings. This often leads to them making uninformed decisions when they decide to sell their land for much needed liquidity.
 - This exploitation of the rural farming communities has led to their systemic oppression and poverty of the essential farming communities, the same group that often works on the frontlines to tackle the impacts of the climate crisis and are the worst affected.
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
-
-![A Chama in Kwale, South Coast Kenya, a semi-arid area, who pooled resources and started regenerating the soil through the use of Aloe Vera. They save for seedlings and classes on how to add value to the Aloe and increase their incomes since traditional farming has failed in the area***********.*********** ](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/photo_5819039203105814632_y.jpg)
 
 A Chama in Kwale, South Coast Kenya, a semi-arid area, who pooled resources and started regenerating the soil through the use of Aloe Vera. They save for seedlings and classes on how to add value to the Aloe and increase their incomes since traditional farming has failed in the area***********.*********** 
-
-![photo_5819039203105814616_y.jpg](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/photo_5819039203105814616_y.jpg)
 
 Groups such as these exist in many corners of the globe and yet their efforts to regenerate the soil and mitigate the effects of Climate change go unnoticed. 
 
 ### By awarding participants such as this women’s group in Kwale,  with eco credits and allowing for them to be purchased on the [Regen Network Marketplace](https://app.regen.network/) we can provide these chamas with an opportunity to raise much needed funding to further their efforts towards regeneration.
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 ## The evolution of the Chama
 
@@ -88,17 +79,7 @@ Groups such as these exist in many corners of the globe and yet their efforts to
 - They can fund their Chama line with M-pesa as well, which can be registered under the name of a Community-based organization or under the Treasurer's name. This means increased accountability for members, who can request for statements from time to time.
 - There are an estimated 300,000 chamas in Kenya today with a total of about $4 billion. However, this number could be double the amount because not all chamas are registered and work informally.
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
-
-*.*  
-
-![The fishermen group below pooled their resources to develop this creek side restaurant and shop. Over 15 years have passed and now they are turning their efforts towards restoration, regenerative education and awareness.](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/photo_5992042805071035000_y.jpg)
-
-The fishermen group below pooled their resources to develop this creek side restaurant and shop. Over 15 years have passed and now they are turning their efforts towards restoration, regenerative education and awareness.
-
 ### This group like many other Chama’s in Kenya face issues with governance and accountability which have often been their greatest challenge to scale. These issues can be solved using existing technology.
-
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 # Chama ****DAO****
 
@@ -114,8 +95,6 @@ Our strategy for this ambitious venture will begin with an in-depth research pap
 4. Is Chama size and proximity the key marker for success and if so, will a technology that provides them a score be beneficial to their overall fundraising strategy?
 5. Is there a correlation between Chama success and the amount of funding available to them?
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
-
 ## The Research Project
 
 We anticipate that by rewarding Chamas practicing regeneration, we will create a compounding effect, where groups will be encouraged and incentivized to report those practices and in-turn have access funding that can supplement their incomes. 
@@ -125,21 +104,15 @@ Most farmers in Kenya would enthusiastically welcome initiatives of these models
 - The aim of this project is to create a research publication on the current state, models and practices of Chama systems in Kenya.
 - This publication will further be used to fundraise to run the proposed pilot in collaboration relevant partners such as Filecoin and Shamba Network
 
-![chama info.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/chama_info.png)
-
 **The research will inform the development of various open source technologies that can reroute financing to where it is needed most**. By incentivizing regenerative agriculture, we can increase food security and continually reward land stewards for their best practices.
 
 This however needs to be done by integrating ecological, economic, and human well-being. We aim  to do this by using both local and ancient wisdom and emerging technologies and concepts related to decentralization.
-
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 ## **Our Approach**
 
 - We support climate justice initiatives with DAO technologies, and evolve DAO technologies with the insights and legacies of climate justice initiatives. It’s a reciprocal process. Put another way, we incubate regenerative DAOs.
 - We leverage tools related to blockchain and decentralised ownership to channel resources to land based communities. We work to anchor their stake in a future economy where value and planetary health are fundamentally aligned.
 - We don’t solely focus on carbon, rather see it as one of a multitude of forces defining regeneration.
-
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 ## Could we do this through Ecosystem Services?
 
@@ -151,15 +124,9 @@ This however needs to be done by integrating ecological, economic, and human wel
     - Downstream : Regen is building a market for the voluntary purchase of regenerative ecocredits. See the beta site [here](https://app.regen.network/).
     - Payment : Ecocredits purchased are typically retired. This means the work of the regenerators has be paid for by a buyer who believes in the value of their work and the ecosystems function.
 
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
-
 ### EcoCredits
 
-![ecocredit.jpg](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/ecocredit.jpg)
-
 ### Ecocredits are much more than just carbon sequestration. By rewriting the integrity of carbon credits  to include support for greater ecological and economic health, Regen Network builds a system to support regenerative communities in a wholistic way.
-
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
 
 # Do you feel aligned with our mission and vision and would like to contribute?
 
@@ -169,13 +136,9 @@ This however needs to be done by integrating ecological, economic, and human wel
     
     Scan this QR Code or click on this link to donate: [https://www.every.org/regen-foundation/f/chamadao-bringing-daos](https://www.every.org/regen-foundation/f/chamadao-bringing-daos)
     
-    ![Everyorg QR.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/Everyorg_QR.png)
-    
 - You can become an advisor for the program and help us with the research
 - You can also become an active mentor for the groups coming onboard through this program.
 - You can also become a program partner and send us an outline of the nature of collaboration you have in mind.
 - Additionally, you can put us in touch with on-ground partners that might be a good fit for this program.
 
 Please get in touch with us via contact@regen.foundation
-
-![herb_emoji.png](Chama%20DAO%20%E2%86%92%20One%20Pager%2007c1987ae2364efb801652a45728d2f4/herb_emoji.png)
